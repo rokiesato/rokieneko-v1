@@ -14,7 +14,9 @@ special thanks to kkatano for the original bakeneko design and Boss Papob#5943 o
 list of other parts i used:
 
 pcb: https://cannonkeys.com/products/bakeneko65-extra-pcbs
+
 daughterboard/jst cable: https://cannonkeys.com/products/unified-daughterboard-and-jst-cable
+
 plate: https://parallel.limited/products/65-switch-plate?variant=41544843198651
 
 
