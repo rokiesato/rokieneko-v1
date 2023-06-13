@@ -1,7 +1,8 @@
 # rokieneko65-v1
-![case-render](https://media.discordapp.net/attachments/903392643478859817/1118052988494299188/case-render.png?width=767&height=431)
+![case-render](https://media.discordapp.net/attachments/813992047861563433/1118077936206094486/rokieneko-front.png?width=767&height=431)
+![bottom-weight](https://media.discordapp.net/attachments/813992047861563433/1118078238120497203/rokieneko-v1-bottom.png?width=767&height=431)
 
-personal keyboard wip based on bakeneko65 by kkatano and modded by boss papob. this is currently v1 meaning the weight is the only contribution to this project and i will work on this design soon.
+personal keyboard wip based on bakeneko65 by kkatano and modded by boss papob. i've modified the back and made it angled like the unikorn but added some inspiration from the qk65 as noted in the usb-c hole.
 
 actual engraving is my anime boy oc but i won't publish since i have no permission from the artist, and it's for my personal board.
 
