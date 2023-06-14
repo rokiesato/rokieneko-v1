@@ -4,7 +4,7 @@
 ![top-case](https://media.discordapp.net/attachments/813992047861563433/1118388942383874078/rokieneko-front.png?width=767&height=431)
 ![usb-c-cutout](https://media.discordapp.net/attachments/813992047861563433/1118390118701613109/usb-c-cutout.png?width=767&height=431)
 
-personal keyboard wip based on bakeneko65 by kkatano and modded by boss papob. i've modified the back and made it angled like the unikorn but added some inspiration from the qk65 as noted in the usb-c hole. i've kept the modified blocker which is also designed by boss.
+personal keyboard wip based on bakeneko65 by kkatano and modded by boss papob. i've modified the back and made it angled like the unikorn but added some inspiration from the qk65 as noted in the usb-c hole. i've kept the modified blocker which is also designed by boss. this design is forked.
 
 actual engraving is my anime boy oc but i won't publish since i have no permission from the artist, and it's for my personal board.
 
